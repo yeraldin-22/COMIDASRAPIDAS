@@ -1,0 +1,10 @@
+.piepagina-contenedor{
+    margin: 25px;
+    margin-top: 25px;
+    padding: 25px;
+    border: 1px solid #333;
+    text-align: center;
+    background-color: black;
+    color: aquamarine;
+    box-shadow: 12px 12px #333; 
+}
